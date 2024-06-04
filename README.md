@@ -1,4 +1,16 @@
-# stopwatch_app
+# Stopwatch App
+Welcome to the Stopwatch App repository! This project is a simple, yet functional stopwatch built using Flutter. It was developed as the third task in my internship at Prodigy InfoTech.
+
+# 📱 Features
+- Start: Begin timing from zero.
+- Pause: Temporarily stop the stopwatch without resetting the time.
+- Resume: Continue timing from where it was paused.
+- Reset: Set the elapsed time back to zero.
+- Accurate Time Display: Shows time in minutes, seconds, and milliseconds.
+  
+# 📸 Screenshots
+![Screenshot_٢٠٢٤٠٦٠٤_٢٢٢٥٣٧](https://github.com/nrmeenmohamed/PRODIGY_AD_3/assets/128254998/7dc80190-d6ad-44ea-81d4-23c4a8a6c8f9)
+![Screenshot_٢٠٢٤٠٦٠٤_٢٢٢٥٥٥](https://github.com/nrmeenmohamed/PRODIGY_AD_3/assets/128254998/d9e7cf43-4cfc-4f79-8312-b846e8f4141a)
 
 A new Flutter project.
 
